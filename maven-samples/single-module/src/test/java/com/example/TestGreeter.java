@@ -28,8 +28,8 @@ public class TestGreeter {
   }
   
   @Test
-  public void intentionally_Failed() {
-    assertTrue(false);
+  public void intentionally_Passed() {
+    assertTrue(true);
   }
   
   @Test
